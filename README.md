@@ -6,6 +6,7 @@
 
 <p align="center">
   ![itsshashwatsingh profile views](https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg)
+  
   <img src="https://img.shields.io/badge/SQL-007396?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
