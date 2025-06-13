@@ -16,6 +16,16 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
 </p>
 
+- uses: Platane/snk@v3
+  with:
+
+    github_user_name: ${{ github.itsshashwatsingh }}
+
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
 ---
 
 Passionate about uncovering patterns in data and creating compelling visualizations that drive business decisions. Specialized in **SQL, Python, Tableau, and Excel**.
