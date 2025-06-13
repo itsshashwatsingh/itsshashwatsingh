@@ -1,8 +1,12 @@
 # Hi, I'm Shashwat 👋  
+
+
+
 **Data Analyst** — Transforming Data Into Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsshashwatsingh&label=Profile%20views&color=0e75b6&style=flat" alt="itsshashwatsingh" />
+  <a href="https://u8views.com/github/itsshashwatsingh"><img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg"></a>
+  <br>
   <img src="https://img.shields.io/badge/SQL-007396?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
@@ -10,6 +14,17 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=tokyonight&no-frame=true&column=7"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsshashwatsingh&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
 </p>
 
 ---
@@ -53,13 +68,17 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 - **Business Intelligence:** Turning raw data into actionable business insights
 - **Stakeholder Communication:** Presenting complex findings in accessible formats
 
----
-
 ## 📊 Featured Projects
 
 ### 📈 Sales Analytics Dashboard
-Comprehensive dashboard analyzing sales performance across multiple regions with real-time KPI tracking and predictive analytics.  
-**Tech:** Python, Tableau, SQL, AWS  
+Comprehensive dashboard analyzing sales performance across multiple regions with real-time KPI tracking and predictive analytics.
+
+**Tech:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
 **Achievements:**  
 - 40% increase in sales insights  
 - Real-time data processing  
@@ -68,8 +87,14 @@ Comprehensive dashboard analyzing sales performance across multiple regions with
 ---
 
 ### 👥 Customer Segmentation Analysis
-Machine learning-based customer segmentation to optimize marketing strategies and improve customer retention rates.  
-**Tech:** Python, scikit-learn, Pandas, Matplotlib  
+Machine learning-based customer segmentation to optimize marketing strategies and improve customer retention rates.
+
+**Tech:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+
 **Achievements:**  
 - 25% improvement in targeting  
 - K-means clustering  
@@ -78,8 +103,14 @@ Machine learning-based customer segmentation to optimize marketing strategies an
 ---
 
 ### 💰 Financial Risk Assessment Tool
-Automated risk assessment system for loan applications using machine learning algorithms and historical data analysis.  
-**Tech:** R, Power BI, SQL Server, Azure  
+Automated risk assessment system for loan applications using machine learning algorithms and historical data analysis.
+
+**Tech:**  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
 **Achievements:**  
 - 30% faster processing  
 - 95% accuracy rate  
@@ -88,23 +119,33 @@ Automated risk assessment system for loan applications using machine learning al
 ---
 
 ### 🚚 Supply Chain Optimization
-Data-driven analysis of supply chain inefficiencies with recommendations for cost reduction and improved delivery times.  
-**Tech:** Excel, Python, Tableau, Google Analytics  
+Data-driven analysis of supply chain inefficiencies with recommendations for cost reduction and improved delivery times.
+
+**Tech:**  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+
 **Achievements:**  
 - 20% cost reduction  
 - Improved efficiency  
 - Automated monitoring  
 
----
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsshashwatsingh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=tokyonight&no-frame=true&column=7"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsshashwatsingh&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
+</p>
+
+
 
 ## 📫 Let's Connect!
 
