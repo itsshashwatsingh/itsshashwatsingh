@@ -1,0 +1,117 @@
+# Hi, I'm Shashwat 👋  
+**Data Analyst** — Transforming Data Into Insights
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsshashwatsingh&label=Profile%20views&color=0e75b6&style=flat" alt="itsshashwatsingh" />
+  <img src="https://img.shields.io/badge/SQL-007396?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
+</p>
+
+---
+
+Passionate about uncovering patterns in data and creating compelling visualizations that drive business decisions. Specialized in **SQL, Python, Tableau, and Excel**.
+
+---
+
+## 🧑‍💼 About Me
+
+A passionate Data Analyst with a strong foundation in data analysis and visualization. I'm eager to apply my skills in transforming raw data into meaningful insights that drive business decisions.
+
+---
+
+### 💡 Core Competencies
+
+- Data Analysis & Data Cleaning  
+- SQL & Database Management  
+- Python  
+- Tableau  
+- Excel  
+- Data Visualization & Storytelling  
+- Statistical Analysis  
+- Business Intelligence  
+- Stakeholder Communication  
+
+---
+
+## 🚀 My Journey
+
+As a recent graduate, I'm excited to begin my journey in data analysis. I've developed a strong foundation in data manipulation, statistical analysis, and visualization through my academic projects and personal learning.
+
+I'm passionate about learning and applying data analysis techniques to solve real-world problems. I believe in continuous learning and staying updated with the latest tools and technologies in the field.
+
+---
+
+## 🛠️ Key Skills
+
+- **Data Visualization:** Creating compelling charts and dashboards that tell a story
+- **Database Management:** Optimizing queries and managing large datasets
+- **Business Intelligence:** Turning raw data into actionable business insights
+- **Stakeholder Communication:** Presenting complex findings in accessible formats
+
+---
+
+## 📊 Featured Projects
+
+### 📈 Sales Analytics Dashboard
+Comprehensive dashboard analyzing sales performance across multiple regions with real-time KPI tracking and predictive analytics.  
+**Tech:** Python, Tableau, SQL, AWS  
+**Achievements:**  
+- 40% increase in sales insights  
+- Real-time data processing  
+- Automated reporting  
+
+---
+
+### 👥 Customer Segmentation Analysis
+Machine learning-based customer segmentation to optimize marketing strategies and improve customer retention rates.  
+**Tech:** Python, scikit-learn, Pandas, Matplotlib  
+**Achievements:**  
+- 25% improvement in targeting  
+- K-means clustering  
+- Interactive visualizations  
+
+---
+
+### 💰 Financial Risk Assessment Tool
+Automated risk assessment system for loan applications using machine learning algorithms and historical data analysis.  
+**Tech:** R, Power BI, SQL Server, Azure  
+**Achievements:**  
+- 30% faster processing  
+- 95% accuracy rate  
+- Regulatory compliance  
+
+---
+
+### 🚚 Supply Chain Optimization
+Data-driven analysis of supply chain inefficiencies with recommendations for cost reduction and improved delivery times.  
+**Tech:** Excel, Python, Tableau, Google Analytics  
+**Achievements:**  
+- 20% cost reduction  
+- Improved efficiency  
+- Automated monitoring  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsshashwatsingh&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to connect with me for collaboration, opportunities, or just a chat about data!
+
+- [LinkedIn](https://www.linkedin.com/in/shashwat-singh-bb2730357/)
+- [Email](mailto:shashwat98k@gmail.com) 
+- [Portfolio](https://portfolio-1-0-lac.vercel.app/)
+
+---
