@@ -1,4 +1,7 @@
 # Hi, I'm Shashwat 👋  
+
+[![itsshashwatsingh profile views](https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg)](https://u8views.com/github/itsshashwatsingh
+
 **Data Analyst** — Transforming Data Into Insights
 
 <p align="center">
