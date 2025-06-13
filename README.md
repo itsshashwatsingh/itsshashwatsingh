@@ -16,6 +16,17 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=tokyonight&no-frame=true&column=7"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsshashwatsingh&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
+</p>
+
 ---
 
 Passionate about uncovering patterns in data and creating compelling visualizations that drive business decisions. Specialized in **SQL, Python, Tableau, and Excel**.
@@ -134,16 +145,6 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
 </p>
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=tokyonight&no-frame=true&column=7"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsshashwatsingh&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
-</p>
 
 
 ## 📫 Let's Connect!
