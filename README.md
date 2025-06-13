@@ -121,15 +121,6 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
 - Improved efficiency  
 - Automated monitoring  
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsshashwatsingh&theme=radical" alt="GitHub Streak" />
-  
-</p>
-
----
 
 ## 📈 GitHub Stats & Achievements
 
@@ -145,7 +136,13 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
 
 
 <p align="center">
-  <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=tokyonight&no-frame=true&column=7"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsshashwatsingh&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
 </p>
 
 
