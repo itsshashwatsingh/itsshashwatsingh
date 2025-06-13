@@ -16,16 +16,6 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" alt="R" />
 </p>
 
-- uses: Platane/snk@v3
-  with:
-
-    github_user_name: ${{ github.itsshashwatsingh }}
-
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
 ---
 
 Passionate about uncovering patterns in data and creating compelling visualizations that drive business decisions. Specialized in **SQL, Python, Tableau, and Excel**.
@@ -141,11 +131,23 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
 
 ---
 
-## 🌟 Stargazers over time
+## 📈 GitHub Stats & Achievements
 
-[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/278929867.svg)](https://yhype.me?utm_source=github&utm_medium=itsshashwatsingh-github-profile-views-counter&utm_content=chart-repository-star-cumulative)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=tokyonight&no-frame=true&column=7"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsshashwatsingh&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
 
 ## 📫 Let's Connect!
 
