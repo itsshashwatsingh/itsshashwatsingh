@@ -126,7 +126,14 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsshashwatsingh&theme=radical" alt="GitHub Streak" />
+  
 </p>
+
+---
+
+## 🌟 Stargazers over time
+
+[![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/278929867.svg)](https://yhype.me?utm_source=github&utm_medium=antonkomarev-github-profile-views-counter&utm_content=chart-repository-star-cumulative)
 
 ---
 
