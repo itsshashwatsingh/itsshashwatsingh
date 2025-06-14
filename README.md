@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/raw/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+</p><br>
 
 
 
@@ -44,8 +44,7 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 
 
 ## 📊 Featured Projects
-
----
+<br>
 
 ## 📈 Sales Analytics Dashboard
 Comprehensive dashboard analyzing sales performance across multiple regions with real-time KPI tracking and predictive analytics.
