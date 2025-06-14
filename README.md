@@ -31,14 +31,6 @@
 
 
 
-<p align="center">
-
-## 🌐 Connect with Me 🍬
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-singh-bb2730357/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShashwatSi48402) 
- [Portfolio](https://portfolio-1-0-lac.vercel.app/)
-
-</p>
-
 
 
 
@@ -114,4 +106,14 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
  Automated monitoring  
 
  <br> 
+
+ 
+<p align="center">
+
+## 🌐 Connect with Me 🍬
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-singh-bb2730357/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShashwatSi48402) 
+ [Portfolio](https://portfolio-1-0-lac.vercel.app/)
+
+</p>
+
 
