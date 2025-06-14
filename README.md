@@ -7,12 +7,18 @@
 
 
  <h1 align="center">  Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.</h1>
+ 
+
 
   <p align ="center">
 A passionate Data Analyst with a strong foundation in data analysis and visualization. I'm eager to apply my skills in transforming raw data into meaningful insights that drive business decisions.
 As a recent graduate, I'm excited to begin my journey in data analysis. I've developed a strong foundation in data manipulation, statistical analysis, and visualization through my academic projects and personal learning.<br>
-I'm passionate about learning and applying data analysis techniques to solve real-world problems. I believe in continuous learning and staying updated with the latest tools and technologies in the field.<br>
- </p>              
+I'm passionate about learning and applying data analysis techniques to solve real-world problems. I believe in continuous learning and staying updated with the latest tools and technologies in the field.<br></p>
+   
+   <div align="center">
+ 
+ [![Download Resume](https://img.shields.io/badge/resume-Shashwat:Data_Analyst_Dev-green?style=for-the-badge)](https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+   </div>              
 
 
  ---
@@ -50,8 +56,8 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 </p>
 
 
- <h3> Also Visit My Data Analyst Portfolio 👇 . Built with </h3>
+ <h3> Also Visit My Data Analyst Portfolio . Built with </h3>
 
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gsap](	https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) <br><br>[![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)](https://portfolio-1-0-lac.vercel.app/)
- [![Download Resume](https://img.shields.io/badge/resume-Shashwat:Data_Analyst_Dev-green?style=for-the-badge)](https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gsap](	https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) <h3>👇</h3>[![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)](https://portfolio-1-0-lac.vercel.app/)
+
 
