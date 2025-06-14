@@ -37,8 +37,7 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 
 # Featured Projects
 
-
-## 📈 Sales Analytics Dashboard
+ 📈 Sales Analytics Dashboard
 Comprehensive dashboard analyzing sales performance across multiple regions with real-time KPI tracking and predictive analytics.
 
 **Tech:**  
@@ -53,7 +52,7 @@ Comprehensive dashboard analyzing sales performance across multiple regions with
  Automated reporting  
 <br>
 
-## 🚚 Supply Chain Optimization
+ 🚚 Supply Chain Optimization
 Data-driven analysis of supply chain inefficiencies with recommendations for cost reduction and improved delivery times.
 
 **Tech:**  
