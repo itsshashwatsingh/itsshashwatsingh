@@ -2,7 +2,7 @@
 
 
 
-  <a href="https://u8views.com/github/itsshashwatsingh"><img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg"></a>
+ <p align="center"> <a href="https://u8views.com/github/itsshashwatsingh"><img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg"></a></p>
   <br>
 
 **Data Analyst** — Transforming Data Into Insights
