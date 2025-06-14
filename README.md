@@ -8,7 +8,7 @@
   
  <p align="center"># Hi, I'm Shashwat 👋 
 
-**Data Analyst** — Transforming Data Into Insights</p>
+**Data Analyst Dev** — Transforming data into insight, and insight into beautiful interfaces.</p>
 
 
 <div align="center">
