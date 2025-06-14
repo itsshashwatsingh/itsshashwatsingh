@@ -34,7 +34,7 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 </p><br>
 
 
-#  Featured Projects
+# Featured Projects
 <br>
 
 ## 📈 Sales Analytics Dashboard
