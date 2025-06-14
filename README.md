@@ -75,7 +75,7 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
 
 
   Also Visit My Data Analyst Portfolio. Built with React, TypeScript, Vite, Tailwind CSS, GSAP, shadcn/ui, and ☕.<br>
- ###[![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-1-0-lac.vercel.app/)
+ [![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-1-0-lac.vercel.app/)
 
 
 </p>
