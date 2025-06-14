@@ -37,23 +37,21 @@
 
 ---
 
-Passionate about uncovering patterns in data and creating compelling visualizations that drive business decisions. Specialized in **SQL, Python, Tableau, and Excel**.
-
----
-
 ## 🧑‍💼 About Me
 
 A passionate Data Analyst with a strong foundation in data analysis and visualization. I'm eager to apply my skills in transforming raw data into meaningful insights that drive business decisions.
+
+Passionate about uncovering patterns in data and creating compelling visualizations that drive business decisions. Specialized in ** Data Analysis & Data Cleaning  
+ Data Visualization & Storytelling  
+ Statistical Analysis  
+ Business Intelligence  
+ Stakeholder Communication & Building beautiful User Interfaces**.
 
 ---
 
 ### 💡 Core Competencies
 
- Data Analysis & Data Cleaning  
- Data Visualization & Storytelling  
- Statistical Analysis  
- Business Intelligence  
- Stakeholder Communication  
+
 
 ---
 
