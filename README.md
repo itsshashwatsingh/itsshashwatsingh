@@ -11,7 +11,6 @@
 <img src ="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/><br>
 <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical"  width="55%" />
 <img src="https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true" width="50%" /><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical" width="36%" />
-<img src="https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=radical"/><br>
 </div>
 
 
@@ -37,7 +36,7 @@
 ## 🧑‍💼 About Me
 
 A passionate Data Analyst with a strong foundation in data analysis and visualization. I'm eager to apply my skills in transforming raw data into meaningful insights that drive business decisions.
-As a recent graduate, I'm excited to begin my journey in data analysis. I've developed a strong foundation in data manipulation, statistical analysis, and visualization through my academic projects and personal learning.
+As a recent graduate, I'm excited to begin my journey in data analysis. I've developed a strong foundation in data manipulation, statistical analysis, and visualization through my academic projects and personal learning.<br>
 I'm passionate about learning and applying data analysis techniques to solve real-world problems. I believe in continuous learning and staying updated with the latest tools and technologies in the field. <br>
 
 
