@@ -50,7 +50,7 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 </p>
 
 
- <h3> Also Visit My Data Analyst Portfolio. Built with </h3>
+ <h3> Also Visit My Data Analyst Portfolio 👇 . Built with </h3>
 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gsap](	https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) <br><br>[![Portfolio](https://img.shields.io/badge/To_Infinite-Portfolio?style=for-the-badge&logo=globe&label=Portfolio&link=https%3A%2F%2Fme.toinfinite.dev%2F)](https://portfolio-1-0-lac.vercel.app/)
  [![Download Resume](https://img.shields.io/badge/resume-Shashwat:Data_Analyst_Dev-green?style=for-the-badge)](https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
