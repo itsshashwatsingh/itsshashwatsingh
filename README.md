@@ -31,15 +31,6 @@ I'm passionate about learning and applying data analysis techniques to solve rea
   
 </p>
 
----
-
-<p align="center">
-  <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/raw/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p><br>
-
----
-
-
 <h1 align="center"> Featured Projects </h1>
 
  ## 📈 Sales Analytics Dashboard
