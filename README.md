@@ -6,9 +6,9 @@
   <br>
 
   
- <p align="center"># Hi, I'm Shashwat 👋 
+ <p align="center">## Hi, I'm Shashwat 👋 
 
-<p align="center">**Data Analyst Dev** — Transforming data into insight, and insight into beautiful interfaces.</p>
+<p align="center"># Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.</p>
 
 
 <div align="center">
