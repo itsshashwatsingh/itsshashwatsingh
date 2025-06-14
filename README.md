@@ -49,7 +49,7 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 
 ## 📊 Featured Projects
 
-### 📈 Sales Analytics Dashboard
+## 📈 Sales Analytics Dashboard
 Comprehensive dashboard analyzing sales performance across multiple regions with real-time KPI tracking and predictive analytics.
 
 **Tech:**  
@@ -65,7 +65,7 @@ Comprehensive dashboard analyzing sales performance across multiple regions with
 
 
 
-### 👥 Customer Segmentation Analysis
+## 👥 Customer Segmentation Analysis
 Machine learning-based customer segmentation to optimize marketing strategies and improve customer retention rates.
 
 **Tech:**  
@@ -80,7 +80,7 @@ Machine learning-based customer segmentation to optimize marketing strategies an
  Interactive visualizations  
 
 
-### 💰 Financial Risk Assessment Tool
+## 💰 Financial Risk Assessment Tool
 Automated risk assessment system for loan applications using machine learning algorithms and historical data analysis.
 
 **Tech:**  
@@ -95,7 +95,7 @@ Automated risk assessment system for loan applications using machine learning al
  Regulatory compliance  
 
 
-### 🚚 Supply Chain Optimization
+## 🚚 Supply Chain Optimization
 Data-driven analysis of supply chain inefficiencies with recommendations for cost reduction and improved delivery times.
 
 **Tech:**  
