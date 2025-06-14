@@ -8,11 +8,11 @@
   
 # <p align="center"> Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical"  width="55%" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical" width="50%" />
+<img src="https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true" width="36%" />
 ![Trophy Banner](https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=radical)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+Machine+Learning!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript!)
 
 <div align="center">
   
