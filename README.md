@@ -33,46 +33,8 @@ I'm passionate about learning and applying data analysis techniques to solve rea
   
 </p>
 
----
-
-<h1 align="center"> Featured Projects </h1>
-
- ### 📈 Sales Analytics Dashboard
-Comprehensive dashboard analyzing sales performance across multiple regions with real-time KPI tracking and predictive analytics.
-
-**Tech:**  
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![tableau](	https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-
-**Achievements:**  
- 40% increase in sales insights  
- Real-time data processing  
- Automated reporting  
-<br>
-
-
-
- ### 🚚 Supply Chain Optimization
-Data-driven analysis of supply chain inefficiencies with recommendations for cost reduction and improved delivery times.
-
-**Tech:**  
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)    
-<img src ="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-
-**Achievements:**  
-20% cost reduction  
- Improved efficiency  
- Automated monitoring  
-
- <br> 
-
  ---
 
- 
 <p align="center">
 
 ## 🌐 Connect with Me 
