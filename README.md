@@ -8,7 +8,7 @@
   
 # <p align="center"> Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical"  width="55%" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical"  width="50%" />
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical" width="50%" />
 <img src="https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true" width="36%" />
 <img src="https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=radical"/>
