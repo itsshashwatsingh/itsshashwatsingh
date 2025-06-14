@@ -65,13 +65,6 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 
 ---
 
-## 🛠️ Key Skills
-
- **Data Visualization:** Creating compelling charts and dashboards that tell a story
- **Database Management:** Optimizing queries and managing large datasets
- **Business Intelligence:** Turning raw data into actionable business insights
- **Stakeholder Communication:** Presenting complex findings in accessible formats
-
 ## 📊 Featured Projects
 
 ### 📈 Sales Analytics Dashboard
