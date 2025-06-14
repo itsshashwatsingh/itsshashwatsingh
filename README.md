@@ -1,6 +1,7 @@
  
 
-
+  
+# Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.<br>
 
  <p align="center"> <a href="https://u8views.com/github/itsshashwatsingh"><img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg"></a></p>
   <br> 
@@ -11,8 +12,7 @@
 <img src="https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true" width="50%" /><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical" width="36%" />
 </div>
 
-  
-## Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.<br>
+
 
 A passionate Data Analyst with a strong foundation in data analysis and visualization. I'm eager to apply my skills in transforming raw data into meaningful insights that drive business decisions.
 As a recent graduate, I'm excited to begin my journey in data analysis. I've developed a strong foundation in data manipulation, statistical analysis, and visualization through my academic projects and personal learning.<br>
