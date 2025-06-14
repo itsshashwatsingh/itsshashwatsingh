@@ -3,7 +3,7 @@
   
  <p align="center"><a href="https://u8views.com/github/itsshashwatsingh"><img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg"></a></p>
 
- <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg"/>
+ <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg"/><br><br>
 
 
  <h1 align="center">  Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.</h1>
