@@ -111,7 +111,7 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
 
 ## 🌐 Connect with Me 🍬
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-singh-bb2730357/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShashwatSi48402) 
-[ [Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-1-0-lac.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-1-0-lac.vercel.app/)
 
 </p>
 
