@@ -20,9 +20,9 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 </p> 
   
 
-<p align="center"> ## Visit My poryfolio
+  Visit My Data Analyst Portfolio. Built with React, TypeScript, Vite, Tailwind CSS, GSAP, shadcn/ui, and ☕.
  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-1-0-lac.vercel.app/)
-</p>
+
 
 
 <div align="center">
