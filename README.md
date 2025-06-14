@@ -5,7 +5,7 @@
  <p align="center"> <a href="https://u8views.com/github/itsshashwatsingh"><img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg"></a></p>
   <br> 
   
-<div align="center">
+<div align="center">[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-1-0-lac.vercel.app/)
 <img src ="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/><br>
 <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical"  width="55%" />
 <img src="https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true" width="50%" /><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical" width="36%" />
@@ -18,7 +18,7 @@ As a recent graduate, I'm excited to begin my journey in data analysis. I've dev
 I'm passionate about learning and applying data analysis techniques to solve real-world problems. I believe in continuous learning and staying updated with the latest tools and technologies in the field. <br>
 </p> 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-1-0-lac.vercel.app/)
+
 
 
 
