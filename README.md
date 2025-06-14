@@ -9,9 +9,11 @@
 # <p align="center"> Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsshashwatsingh&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true)
+![Trophy Banner](https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=radical)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+Machine+Learning!)
 </p>
 
 
