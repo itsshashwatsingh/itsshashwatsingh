@@ -52,6 +52,8 @@ Comprehensive dashboard analyzing sales performance across multiple regions with
  Automated reporting  
 <br>
 
+---
+
  🚚 Supply Chain Optimization
 Data-driven analysis of supply chain inefficiencies with recommendations for cost reduction and improved delivery times.
 
