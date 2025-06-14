@@ -6,8 +6,7 @@
   <br>
 
   
-# <p align="center"> Hi, I'm Shashwat 👋
-<p align="center"> Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.</p>
+# <p align="center"> Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
