@@ -35,7 +35,7 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 </p><br>
 
 
-# Featured Projects
+<h1 align="center"> Featured Projects </h1>
 
  📈 Sales Analytics Dashboard
 Comprehensive dashboard analyzing sales performance across multiple regions with real-time KPI tracking and predictive analytics.
