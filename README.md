@@ -89,9 +89,9 @@ Comprehensive dashboard analyzing sales performance across multiple regions with
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Achievements:**  
-- 40% increase in sales insights  
-- Real-time data processing  
-- Automated reporting  
+ 40% increase in sales insights  
+ Real-time data processing  
+ Automated reporting  
 
 ---
 
@@ -105,9 +105,9 @@ Machine learning-based customer segmentation to optimize marketing strategies an
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 
 **Achievements:**  
-- 25% improvement in targeting  
-- K-means clustering  
-- Interactive visualizations  
+ 25% improvement in targeting  
+ K-means clustering  
+ Interactive visualizations  
 
 ---
 
@@ -121,9 +121,9 @@ Automated risk assessment system for loan applications using machine learning al
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 **Achievements:**  
-- 30% faster processing  
-- 95% accuracy rate  
-- Regulatory compliance  
+ 30% faster processing  
+ 95% accuracy rate  
+ Regulatory compliance  
 
 ---
 
@@ -137,9 +137,9 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
 **Achievements:**  
-- 20% cost reduction  
-- Improved efficiency  
-- Automated monitoring  
+20% cost reduction  
+ Improved efficiency  
+ Automated monitoring  
 
 
 ## 📈 GitHub Stats & Achievements
