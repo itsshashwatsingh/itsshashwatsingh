@@ -2,7 +2,7 @@
 
   
 
-#<p align="center"> Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.<br></p>
+<p align="center"> #Hi, I'm Shashwat 👋, Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.<br></p>
 
  <p align="center"> <a href="https://u8views.com/github/itsshashwatsingh"><img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg"></a></p>
   <br> 
