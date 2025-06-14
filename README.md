@@ -9,6 +9,12 @@
 # <p align="center"> Hi, I'm Shashwat 👋
 <p align="center"> Data Analyst Dev — Transforming data into insight, and insight into beautiful interfaces.</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsshashwatsingh&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
+</p>
+
 
 <div align="center">
   
@@ -40,11 +46,10 @@
 
 A passionate Data Analyst with a strong foundation in data analysis and visualization. I'm eager to apply my skills in transforming raw data into meaningful insights that drive business decisions.
 
-Passionate about uncovering patterns in data and creating compelling visualizations that drive business decisions. Specialized in Data Analysis & Data Cleaning  
- Data Visualization & Storytelling, Statistical Analysis, Business Intelligence, Stakeholder Communication & Building beautiful User Interfaces.
 As a recent graduate, I'm excited to begin my journey in data analysis. I've developed a strong foundation in data manipulation, statistical analysis, and visualization through my academic projects and personal learning.
+I'm passionate about learning and applying data analysis techniques to solve real-world problems. I believe in continuous learning and staying updated with the latest tools and technologies in the field. <br>
 
-I'm passionate about learning and applying data analysis techniques to solve real-world problems. I believe in continuous learning and staying updated with the latest tools and technologies in the field.
+
 
 
 ## 📊 Featured Projects
@@ -62,7 +67,7 @@ Comprehensive dashboard analyzing sales performance across multiple regions with
  40% increase in sales insights  
  Real-time data processing  
  Automated reporting  
-
+<br>
 
 
 ## 👥 Customer Segmentation Analysis
@@ -77,7 +82,7 @@ Machine learning-based customer segmentation to optimize marketing strategies an
 **Achievements:**  
  25% improvement in targeting  
  K-means clustering  
- Interactive visualizations  
+ Interactive visualizations <br> 
 
 
 ## 💰 Financial Risk Assessment Tool
@@ -93,8 +98,7 @@ Automated risk assessment system for loan applications using machine learning al
  30% faster processing  
  95% accuracy rate  
  Regulatory compliance  
-
-
+ <br> 
 ## 🚚 Supply Chain Optimization
 Data-driven analysis of supply chain inefficiencies with recommendations for cost reduction and improved delivery times.
 
@@ -109,17 +113,5 @@ Data-driven analysis of supply chain inefficiencies with recommendations for cos
  Improved efficiency  
  Automated monitoring  
 
-
-## 📈 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsshashwatsingh&theme=tokyonight&no-frame=true&column=7"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_title=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsshashwatsingh&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_title=true" height="165"/>
-</p>
-
+ <br> 
 
