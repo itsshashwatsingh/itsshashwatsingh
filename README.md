@@ -5,9 +5,10 @@
  <p align="center"> <a href="https://u8views.com/github/itsshashwatsingh"><img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg"></a></p>
   <br>
 
-  # Hi, I'm Shashwat 👋 
+  
+ <p align="center"># Hi, I'm Shashwat 👋 
 
-**Data Analyst** — Transforming Data Into Insights
+**Data Analyst** — Transforming Data Into Insights</p>
 
 
 <div align="center">
