@@ -50,15 +50,11 @@ A passionate Data Analyst with a strong foundation in data analysis and visualiz
 
 ### 💡 Core Competencies
 
-- Data Analysis & Data Cleaning  
-- SQL & Database Management  
-- Python  
-- Tableau  
-- Excel  
-- Data Visualization & Storytelling  
-- Statistical Analysis  
-- Business Intelligence  
-- Stakeholder Communication  
+ Data Analysis & Data Cleaning  
+ Data Visualization & Storytelling  
+ Statistical Analysis  
+ Business Intelligence  
+ Stakeholder Communication  
 
 ---
 
@@ -72,10 +68,10 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 
 ## 🛠️ Key Skills
 
-- **Data Visualization:** Creating compelling charts and dashboards that tell a story
-- **Database Management:** Optimizing queries and managing large datasets
-- **Business Intelligence:** Turning raw data into actionable business insights
-- **Stakeholder Communication:** Presenting complex findings in accessible formats
+ **Data Visualization:** Creating compelling charts and dashboards that tell a story
+ **Database Management:** Optimizing queries and managing large datasets
+ **Business Intelligence:** Turning raw data into actionable business insights
+ **Stakeholder Communication:** Presenting complex findings in accessible formats
 
 ## 📊 Featured Projects
 
