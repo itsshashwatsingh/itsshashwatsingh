@@ -61,36 +61,6 @@ Comprehensive dashboard analyzing sales performance across multiple regions with
  Automated reporting  
 <br>
 
-
-## 👥 Customer Segmentation Analysis
-Machine learning-based customer segmentation to optimize marketing strategies and improve customer retention rates.
-
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-
-**Achievements:**  
- 25% improvement in targeting  
- K-means clustering  
- Interactive visualizations <br> 
-
-
-## 💰 Financial Risk Assessment Tool
-Automated risk assessment system for loan applications using machine learning algorithms and historical data analysis.
-
-**Tech:**  
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-**Achievements:**  
- 30% faster processing  
- 95% accuracy rate  
- Regulatory compliance  
- <br> 
 ## 🚚 Supply Chain Optimization
 Data-driven analysis of supply chain inefficiencies with recommendations for cost reduction and improved delivery times.
 
