@@ -14,8 +14,9 @@ I'm passionate about learning and applying data analysis techniques to solve rea
   
 <div align="center">
 <img src ="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical"  width="55%" />
-<img src="https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true" width="50%" /><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical" width="36%" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=aura&hide_border=true"  width="55%" />
+<img src="https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true" width="50%" />
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical&hide_border=true" width="36%" />
 </div>
 
 
