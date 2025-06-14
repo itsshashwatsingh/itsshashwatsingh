@@ -17,6 +17,8 @@
 A passionate Data Analyst with a strong foundation in data analysis and visualization. I'm eager to apply my skills in transforming raw data into meaningful insights that drive business decisions.
 As a recent graduate, I'm excited to begin my journey in data analysis. I've developed a strong foundation in data manipulation, statistical analysis, and visualization through my academic projects and personal learning.<br>
 I'm passionate about learning and applying data analysis techniques to solve real-world problems. I believe in continuous learning and staying updated with the latest tools and technologies in the field.<br>
+
+ 
  Visit My Data Analyst Portfolio. Built with React, TypeScript, Vite, Tailwind CSS, GSAP, shadcn/ui, and ☕.
  </p> 
  
