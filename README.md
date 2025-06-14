@@ -34,17 +34,6 @@ I'm passionate about learning and applying data analysis techniques to solve rea
 </p><br>
 
 
-
-
-
-
-
-## 🧑‍💼 About Me
-
-
-
-
-
 ## 📊 Featured Projects
 <br>
 
