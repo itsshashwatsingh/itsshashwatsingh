@@ -31,6 +31,8 @@ I'm passionate about learning and applying data analysis techniques to solve rea
   
 </p>
 
+---
+
 <h1 align="center"> Featured Projects </h1>
 
  ## 📈 Sales Analytics Dashboard
