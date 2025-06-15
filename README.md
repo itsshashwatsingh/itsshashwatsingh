@@ -1,5 +1,5 @@
  
-<div align="center"><img src ="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/></div>
+<div align="center"><img src ="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=green&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/></div>
   
  <p align="center"><a href="https://u8views.com/github/itsshashwatsingh"><img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg"></a></p>
 
