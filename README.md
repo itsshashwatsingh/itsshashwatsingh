@@ -37,7 +37,8 @@ I'm passionate about learning and applying data analysis techniques to solve rea
   
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=aura&hide_border=true"  width="55%" />
-<img src="https://streak-stats.demolab.com?user=itsshashwatsingh&theme=radical&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=radical&hide_border=true" />
+
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical&hide_border=true" width="36%" />
 </div>
 
