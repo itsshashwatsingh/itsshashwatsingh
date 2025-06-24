@@ -97,10 +97,9 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=aura&hide_border=true" width="55%" />
-  <img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical&hide_border=true" width="35%" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=aura&hide_border=true" width="55%"/><img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=radical&hide_border=true" width="35%"/>
 </div>
 
 ---
