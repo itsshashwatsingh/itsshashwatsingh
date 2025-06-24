@@ -30,12 +30,28 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 - 📊 I love deriving insights from data using Python, SQL, and visualization tools.
 - 🌐 I'm also diving into frontend development using React, Tailwind, and animation libraries.
 - 🧠 Lifelong learner focused on data, design, and logic-driven solutions.
-- 🛠️ Currently building my portfolio and solving real-world challenges through data.
+- 🛠️ Explore my live portfolio to see how I blend data with design.
+- ⚙️ Built With:
+<p>
+ 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+  ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white)
+  ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+</p>
 
 
-  <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img src="https://img.shields.io/badge/Download%20Resume-Shashwat-green?style=for-the-badge" />
+ <a href="https://portfolio-1-0-lac.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=globe"/>
   </a>
+
+
+
+
+  <h3> <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img src="https://img.shields.io/badge/Download%20Resume-Shashwat-green?style=for-the-badge" />
+  </a>  </h3>
 
 
 ---
@@ -106,26 +122,6 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   </a>
 
 
----
 
-### 🧠 Also Visit My Portfolio
-
-<h3>Built with</h3>
-
-<p align="center">
- 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-  ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white)
-  ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-</p>
-
-
-  <h3>👉  <a href="https://portfolio-1-0-lac.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=globe"/>
-  </a>
-
-  </h3>
 
 
