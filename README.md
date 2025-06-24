@@ -39,12 +39,12 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white)
   ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-</p>
+
 
 
  <a href="https://portfolio-1-0-lac.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=globe"/>
-  </a>
+  </a></p>
 
 
 
