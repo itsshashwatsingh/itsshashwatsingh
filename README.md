@@ -28,8 +28,8 @@ I'm a passionate **Data Analyst** with a growing skill set in **data analytics**
 As a recent graduate, I've built a solid foundation through academic projects, self-learning, and real-world practice.
 
 -  I love deriving insights from data using Python, SQL, and visualization tools.
--  I'm also diving into frontend development using React, Tailwind, and animation libraries.
 -  Lifelong learner focused on data, design, and logic-driven solutions.
+-  I'm also diving into frontend development using React, Tailwind, and animation libraries.
 -  Explore my live portfolio to see how I blend data with design.<br><br>
     ⚙️ Portfolio Built With:
 
