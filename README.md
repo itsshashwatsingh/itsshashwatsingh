@@ -9,11 +9,11 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg" alt="Data Analyst Dev"/>
+  <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg" alt="Data Analyst Dev"/> 
 </div>
 
 <h1>
-  👋 Hi, I'm Shashwat — Data Analyst Dev  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=neon&center=true&vCenter=true&width=435&lines=Hi,+I'm+Shashwat;Data+Analyst+Dev "/>
 </h1>
 
 <h3>
