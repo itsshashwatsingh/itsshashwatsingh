@@ -13,7 +13,7 @@
 </div>
 
 <h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=neon&center=true&vCenter=true&width=435&lines=Hi,+I'm+Shashwat;Data+Analyst+Dev "/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=neon&center=true&vCenter=true&width=435&lines=Hi,+I'm+Shashwat;Data+Analyst+Dev "/>
 </h1>
 
 <h3>
