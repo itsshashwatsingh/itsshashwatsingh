@@ -1,6 +1,6 @@
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=34&pause=1000&color=neon&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/>
-</div>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=neon&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/>
+
 
 <p >
   <a href="https://u8views.com/github/itsshashwatsingh">
