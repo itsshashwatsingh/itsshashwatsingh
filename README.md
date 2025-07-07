@@ -1,12 +1,20 @@
-
+<div align = "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=neon&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/>
-
-
-<p >
+</div>
+<p align = "center" >
   <a href="https://u8views.com/github/itsshashwatsingh">
     <img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg" />
   </a>
 </p>
+
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg" alt="Data Analyst Dev"/> 
@@ -18,13 +26,7 @@
 
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
