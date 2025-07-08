@@ -90,9 +90,11 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&hide_border=true" width="55%"/><img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=tokyonight&theme=icegray&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&hide_border=true" width="35%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshashwatsingh&bg_color=fff&color=161b22&line=161b22&point=a76c6c&area=true&hide_border=true&hide_title=false" />
+ 
+ <img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=tokyonight&theme=icegray&hide_border=true" width="39%"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&hide_border=true" width="28%"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&hide_border=true" width="32%" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshashwatsingh&bg_color=fff&color=161b22&line=161b22&point=a76c6c&area=true&hide_border=true&hide_title=false" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
