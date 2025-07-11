@@ -1,5 +1,5 @@
 <div align = "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=neon&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=neon&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/> 
 </div>
 <p align = "center" >
   <a href="https://u8views.com/github/itsshashwatsingh">
@@ -21,7 +21,7 @@
 </div>
 
 <h3>
-  Transforming data into insight, and insight into beautiful interfaces.
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">  Hi, I'm Shashwat — a Data Analyst and occasional Developer who loves transforming raw data into insights, and insights into beautiful, intuitive interfaces.  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h3>
 
 
@@ -30,7 +30,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# 💬 About Me
+#  About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 I'm a passionate **Data Analyst** with a growing skill set in **data analytics**, **visualization**, and **modern web interfaces**.  
 As a recent graduate, I've built a solid foundation through academic projects, self-learning, and real-world practice.
