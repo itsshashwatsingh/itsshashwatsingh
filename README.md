@@ -20,9 +20,9 @@
   <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg" alt="Data Analyst Dev"/> 
 </div>
 
-<h3>
+<h2>
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">  Hi, I'm Shashwat — a Data Analyst and occasional Developer who loves transforming raw data into insights, and insights into beautiful, intuitive interfaces.  <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h3>
+</h2>
 
 
 
@@ -92,18 +92,18 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 <table align="center">
   <tr>
     <td>
-      <img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=tokyonight&hide_border=true&background=00000000" width="100%"/>
+      <img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=react&hide_border=true&background=00000000" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=react&hide_border=true&bg_color=00000000" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshashwatsingh&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshashwatsingh&theme=react&hide_border=true&area=true&bg_color=00000000" width="100%"/>
     </td>
   </tr>
 </table>
