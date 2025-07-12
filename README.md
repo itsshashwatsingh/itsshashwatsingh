@@ -26,10 +26,10 @@
 
 ##  About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <h3>
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Shashwat <!--<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">-->
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Shashwat, <!--<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">-->
 </h3>
 
-I'm a passionate **Data Analyst** with a growing skill set in **data analytics**, **visualization**, and **modern web interfaces**.  
+A passionate **Data Analyst** with a growing skill set in **data analytics**, **visualization**, and **modern web interfaces**.  
 As a recent graduate, I've built a solid foundation through academic projects, self-learning, and real-world practice.
 
 -  I love deriving insights from data using Python, SQL, and visualization tools.
