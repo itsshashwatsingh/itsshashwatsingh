@@ -35,7 +35,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 -  I love deriving insights from data using Python, SQL, and visualization tools.
 -  Lifelong learner focused on data, design, and logic-driven solutions.
 -  I'm also diving into frontend development using React, Tailwind, and animation libraries.
--  Explore my live portfolio to see how I blend data with design.<br><br>
+-  Have a look at my live portfolio.<br><br>
     ⚙️ Portfolio Built With:
 
    
