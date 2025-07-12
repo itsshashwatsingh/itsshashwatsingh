@@ -36,7 +36,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 -  Lifelong learner focused on data, design, and logic-driven solutions.
 -  I'm also diving into frontend development using React, Tailwind, and animation libraries.
 -  Have a look at my live portfolio.<br><br>
-    ⚙️ Portfolio Built With:
+    ⚙️ Built With:
 
    
       ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -123,10 +123,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   </a>
   <a href="https://leetcode.com/u/fclDlbfku9/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
-  </a>
+
   
 
 
