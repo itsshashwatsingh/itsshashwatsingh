@@ -35,10 +35,10 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 -  I love deriving insights from data using Python, SQL, and visualization tools.
 -  Lifelong learner focused on data, design, and logic-driven solutions.
 -  I'm also diving into frontend development using React, Tailwind, and animation libraries.
-- Check out my portfolio:<br><br>
-  <a href="https://portfolio-1-0-lac.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-32CD32?style=for-the-badge&logo=globe"/>
-  </a><br><br>
+- <a href="https://portfolio-1-0-lac.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit My-Portfolio-32CD32?style=for-the-badge&logo=globe"/>
+  </a><br>
+  
    ⚙️ **Built With**:
     
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -48,9 +48,8 @@ As a recent graduate, I've built a solid foundation through academic projects, s
    ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
   
 
-- Download my resume:
-  <p> <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img src="https://img.shields.io/badge/Resume-32CD32?style=for-the-badge" />
+- <p> <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img src="https://img.shields.io/badge/Download-Resume-32CD32?style=for-the-badge" />
   </a>  </p>
 
 
