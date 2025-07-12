@@ -8,6 +8,11 @@
 </p>
 
 
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg" alt="Data Analyst Dev"/> 
+</div>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
@@ -16,21 +21,13 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg" alt="Data Analyst Dev"/> 
-</div>
-
-<h2>
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Shashwat <!--<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">-->
-</h2>
-
-
-
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ##  About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+<h3>
+<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Shashwat <!--<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">-->
+</h3>
 
 I'm a passionate **Data Analyst** with a growing skill set in **data analytics**, **visualization**, and **modern web interfaces**.  
 As a recent graduate, I've built a solid foundation through academic projects, self-learning, and real-world practice.
