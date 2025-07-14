@@ -68,17 +68,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 <table align="center">
   <tr>
     <td align="center">
-      <strong style="font-size: 0.9em;">Streak</strong>
-    </td>
-    <td align="center">
-      <strong style="font-size: 0.9em;">Languages</strong>
-    </td>
-    <td align="center">
-      <strong style="font-size: 0.9em;">Stats</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
+      <div style="font-size: 0.9em; font-weight: bold; margin-bottom: 5px;">Streak</div>
       <img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=react&hide_border=true&background=00000000" width="100%"/>
     </td>
     <td align="center">
@@ -90,26 +80,24 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   </tr>
   <tr>
     <td colspan="3" align="center" width="100%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshashwatsingh&theme=react&hide_border=true&area=true&bg_color=00000000" width="100%"/>
+      <div style="font-size: 0.9em; font-weight: bold; margin: 10px 0;">Contribution Graph</div>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshashwatsingh&theme=react&hide_border=true&area=true&hide_title=true&bg_color=00000000" width="100%"/>
     </td>
   </tr>
-<tr>
-  <td colspan="3" align="center">
-    <div style="font-size: 1.3em; font-weight: bold; margin-bottom: 15px; display: inline-block;">
-      GitHub Contribution Heatmap
-    </div>
-  </td>
-</tr>
-<tr>
-  <td colspan="3" align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
-      <img alt="snake" src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </td>
-</tr>
+  <tr>
+    <td colspan="3" align="center">
+      <div style="font-size: 1.2em; font-weight: bold; margin: 10px 0;">
+        GitHub Contribution Heatmap
+      </div>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
+        <img alt="snake" src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
+      </picture>
+    </td>
+  </tr>
 </table>
+
 
 <!-- Divider -->
 <p align="center">
