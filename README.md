@@ -68,7 +68,6 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 <table align="center">
   <tr>
     <td align="center">
-      <div style="font-size: 0.9em; font-weight: bold; margin-bottom: 5px;">Streak</div>
       <img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=react&hide_border=true&background=00000000" width="100%"/>
     </td>
     <td align="center">
