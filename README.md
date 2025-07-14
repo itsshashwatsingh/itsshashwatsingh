@@ -13,13 +13,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg" alt="Data Analyst Dev"/> 
 </div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -67,41 +61,54 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
-
 <table align="center">
   <tr>
-    <td>
+    <td align="center">
+      <strong style="font-size: 0.9em;">Streak</strong>
+    </td>
+    <td align="center">
+      <strong style="font-size: 0.9em;">Languages</strong>
+    </td>
+    <td align="center">
+      <strong style="font-size: 0.9em;">Stats</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=react&hide_border=true&background=00000000" width="100%"/>
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=react&hide_border=true&bg_color=00000000" width="100%"/>
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center">
+    <td colspan="3" align="center" width="100%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshashwatsingh&theme=react&hide_border=true&area=true&bg_color=00000000" width="100%"/>
     </td>
   </tr>
+<tr>
+  <td colspan="3" align="center">
+    <div style="font-size: 1.3em; font-weight: bold; margin-bottom: 15px; display: inline-block;">
+      GitHub Contribution Heatmap
+    </div>
+  </td>
+</tr>
+<tr>
+  <td colspan="3" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
+      <img alt="snake" src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
+    </picture>
+  </td>
+</tr>
 </table>
 
 <!-- Divider -->
@@ -109,6 +116,18 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 </p>
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Coding Progress Stats
+<table align = "center">
+ <tr>
+    <td align="center" width=100%">
+      <strong style="font-size: 0.9em;"> LeetCode</strong>
+    </td>
+   
+  </tr>
+<td align="center" width="100%">
+      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" />
+    </td>
+</table>
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect with Me
