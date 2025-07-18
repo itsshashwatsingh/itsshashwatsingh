@@ -29,7 +29,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 -  I love deriving insights from data using Python, SQL, and visualization tools.
 -  Lifelong learner focused on data, design, and logic-driven solutions.
 -  I'm also diving into frontend development using React, Tailwind, and animation libraries.
-- <a href="https://portfolio-1-0-lac.vercel.app/">
+- <a href="www.shashwatanalyst.online">
     <img src="https://img.shields.io/badge/Visit%20My-Portfolio-32CD32?style=for-the-badge&logo=globe"/>
   </a><br>
   
