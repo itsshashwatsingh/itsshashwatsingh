@@ -21,10 +21,10 @@
 
 - ❤️ Passionate `Data Analyst` exploring `modern tools & technologies`  
 - 🎉 `Graduate` with hands-on experience in `real-world projects`  
-- ⚒️ Skilled in `Python`, `SQL`, and `data visualization methods` 
-- 🔰 Learning `frontend dev` with `React`, `Tailwind` & `UI animations`  
-- 🧩 Strong base in `logic`, `design thinking`, and `problem-solving`  
-- 🔮 `Lifelong learner` driven by `curiosity` & `creativity`
+- ⚒️ Skilled in `Python, SQL & data visualization methods` 
+- 🔰 Learning `frontend dev` with `React, Tailwind & UI animations`  
+- 🧩 Strong base in `logic, design thinking & problem-solving`  
+- 🔮 `Lifelong learner` driven by `curiosity & creativity`
 
 
 <h2> <picture>
