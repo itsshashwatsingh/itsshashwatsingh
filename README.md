@@ -105,16 +105,20 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Coding Progress Stats
 <table align="center">
- <tr>
-    <td align="center" width=100%">
-      <strong style="font-size: 0.9em;"> LeetCode</strong>
+  <tr>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
+        <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" /></a><br>
+        <strong style="font-size: 0.9em;">HackerRank - Python (5⭐)</strong>
     </td>
-   
-  </tr>
-<td align="center" width="100%">
+    <td align="center">
+      <strong style="font-size: 0.9em;">LeetCode</strong><br>
       <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" />
     </td>
+  </tr>
 </table>
+
+
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect with Me
