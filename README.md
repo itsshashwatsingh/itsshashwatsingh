@@ -25,7 +25,7 @@
 - 🧩 Strong foundation in logic, design, and problem-solving  
 - 🔮 Lifelong learner driven by curiosity and creativity  
 
-## What I've been doing lately 📌
+## What I've been doing lately 
 
 I've been actively working with datasets using tools like **Pandas**, **Matplotlib**, and **Seaborn** for analysis and visualization.  
 On the development side, I'm building responsive UI components with **React** and **Tailwind CSS** to enhance my frontend skills.  
