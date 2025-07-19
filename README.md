@@ -19,7 +19,7 @@
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- ❤️ Passionate **Data Analyst** exploring modern tools & technologies  
+- ❤️ Passionate **Data Analyst** exploring modern tools and technologies  
 - 🎉 Graduate with hands-on experience in real-world projects  
 - ⚒️ Skilled in **Python**, **SQL**, and **data visualization methods**  
 - 🔰 Learning frontend development with **React**, **Tailwind** and UI animations  
