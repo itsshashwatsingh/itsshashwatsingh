@@ -112,7 +112,7 @@ Recently, I've been diving deeper into **SQL**—practicing complex queries and 
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Connect with me:
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-singh-bb2730357/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShashwatSi48402)
