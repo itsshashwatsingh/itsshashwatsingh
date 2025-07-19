@@ -6,16 +6,12 @@
     <img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg" />
   </a>
 </p>
-
-
-
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg" alt="Data Analyst Dev"/> 
 </div>
 
 
-##  About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 <h3>
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Shashwat, <!--<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">-->
 </h3>
@@ -39,16 +35,12 @@ As a recent graduate, I've built a solid foundation through academic projects, s
    ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
   
 
-- <p> <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<p> <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Download-Resume-32CD32?style=for-the-badge" />
   </a>  </p>
----
 
-<details>
-<summary>
-  
-## Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
-</summary>
+
+<details><summary><strong>Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></strong></summary><br><br>
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -56,27 +48,15 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)|
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)|
-  
+
 </details>
+<details><summary><strong> GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/></strong></summary><br><br>
 
----
-
-<details>
-<summary>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
-</summary>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=react&hide_border=true&background=00000000" width="100%"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=react&hide_border=true&bg_color=00000000" width="100%"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/>
-    </td>
+    <td align="center"><img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=react&hide_border=true&background=00000000" width="100%"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
   </tr>
   <tr>
     <td colspan="3" align="center" width="100%">
@@ -86,9 +66,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <div style="font-size: 1.2em; font-weight: bold; margin: 10px 0;">
-        GitHub Contribution Heatmap
-      </div>
+      <div style="font-size: 1.2em; font-weight: bold; margin: 10px 0;">GitHub Contribution Heatmap</div>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
@@ -99,14 +77,8 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 </table>
 
 </details>
+<details><summary><strong> Coding Progress Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/></strong></summary><br><br>
 
----
-
-<details>
-<summary>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Coding Progress Stats
-</summary>
 <table align="center">
   <tr>
     <td align="center">
@@ -124,7 +96,8 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 </details>
 
 
----
+
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect with Me
 
