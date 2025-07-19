@@ -11,8 +11,8 @@
   Hi there, I'm Shashwat Singh
 </h1>
 
-[![Visit My Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-1E90FF?style=for-the-badge&logo=globe&logoColor=white)](https://www.shashwatanalyst.online/)
-[![Download Resume](https://img.shields.io/badge/Download-Resume-1E90FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-shashwat_analyst-1E90FF?style=for-the-badge&logo=globe&logoColor=white)](https://www.shashwatanalyst.online/)
+[![Download Resume](https://img.shields.io/badge/Resume-Shashwat_:_Data_Analyst-1E90FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
