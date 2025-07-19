@@ -11,8 +11,9 @@
   Hi there, I'm Shashwat Singh
 </h1>
 
-[![Visit My Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-32CD32?style=for-the-badge&logo=globe)](https://www.shashwatanalyst.online/)
-[![Download Resume](https://img.shields.io/badge/Download-Resume-32CD32?style=for-the-badge)](https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Visit My Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-1E90FF?style=for-the-badge&logo=globe&logoColor=white)](https://www.shashwatanalyst.online/)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-1E90FF?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 ## About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
