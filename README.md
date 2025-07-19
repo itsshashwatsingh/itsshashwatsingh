@@ -19,12 +19,12 @@
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- ❤️ Passionate Data Analyst exploring modern tools and tech  
-- 🎉 Recent graduate with hands-on project experience  
-- ⚒️ Skilled in Python, SQL and data visualization  
-- 🔰 Learning frontend dev with React, Tailwind and animations  
-- 🧩 Strong foundation in logic, design and problem-solving  
-- 🔮 Lifelong learner driven by curiosity and creativity  
+- ❤️ Passionate Data Analyst exploring tools & technologies  
+- 🎉 Graduate with hands-on experience in real-world projects  
+- ⚒️ Skilled in Python, SQL, and data visualization methods  
+- 🔰 Learning frontend dev with React, Tailwind & UI animations  
+- 🧩 Strong base in logic, design thinking, and problem-solving  
+- 🔮 Lifelong learner driven by curiosity & creativity
 
 
 <h2> <picture>
