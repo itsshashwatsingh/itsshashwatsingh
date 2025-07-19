@@ -118,6 +118,10 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+</p>
+
 
 
 
