@@ -1,30 +1,37 @@
-<div align = "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&pause=1000&color=neon&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+Python+and+JavaScript"/> 
-</div>
-<p align = "center" >
-  <a href="https://u8views.com/github/itsshashwatsingh">
-    <img src="https://u8views.com/api/v1/github/profiles/204170486/views/day-week-month-total-count.svg" />
-  </a>
-</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/e7d1d3064cd6afd638ab490af0b3b582e45bc6be/data_analyst_dev.svg" alt="Data Analyst Dev"/> 
 </div>
 
 
-## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-<h3>
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> Hi, I'm Shashwat, <!--<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">-->
-</h3>
+<div>
 
-A passionate **Data Analyst** with a growing skill set in **data analytics**, **visualization**, and **modern web interfaces**.  
-As a recent graduate, I've built a solid foundation through academic projects, self-learning, and hands-on experience.
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">  
+  Hi there, I'm Shashwat Singh
+</h1>
 
--  I love deriving insights from data using Python, SQL, and visualization tools.
--  Lifelong learner focused on data, design, and logic-driven solutions.
--  I'm also diving into frontend development using React, Tailwind, and animation libraries.
-- <a href="https://www.shashwatanalyst.online/">
-    <img src="https://img.shields.io/badge/Visit%20My-Portfolio-32CD32?style=for-the-badge&logo=globe"/>
-  </a><br> 
+[![Visit My Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-32CD32?style=for-the-badge&logo=globe)](https://www.shashwatanalyst.online/)
+[![Download Resume](https://img.shields.io/badge/Download-Resume-32CD32?style=for-the-badge)](https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+## About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+- ❤️ Passionate **Data Analyst** exploring modern tools and technologies  
+- 🎉 Recent graduate with hands-on project experience  
+- ⚒️ Skilled in **Python**, **SQL**, and **data visualization**  
+- 🔰 Currently learning **frontend development** with React, Tailwind, and animations  
+- 🧩 Strong foundation in logic, design, and problem-solving  
+- 🔮 Lifelong learner driven by curiosity and creativity  
+
+## What I've been doing lately 📌
+
+I'm actively working with datasets using tools like **Pandas**, **Matplotlib**, and **Seaborn** for analysis and visualization.  
+On the development side, I'm building responsive UI components with **React** and **Tailwind CSS** to enhance my frontend skills.  
+
+I'm also involved in real-world projects that combine **data analytics** with **clean, user-friendly design**.  
+Recently, I've been diving deeper into **SQL**—practicing complex queries, and exploring **report automation** techniques.
+
   
    <!--⚙️ **Built With**:
     
@@ -34,12 +41,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
    ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white)
    ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)-->
   
-
-- <p> <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img src="https://img.shields.io/badge/Download-Resume-32CD32?style=for-the-badge" />
-  </a>  </p>
-
-
+---
 <details><summary><strong>Tech Stack <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20"/></strong></summary>
 <br><br>
 
@@ -82,39 +84,34 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 
 <table align="center">
   <tr>
+    <th align="center">HackerRank</th>
+    <th align="center">LeetCode</th>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
-        <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" /></a><br>
-        <strong style="font-size: 0.9em;">HackerRank - Python (5⭐)</strong>
+        <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" />
+      </a><br>
+      <strong style="font-size: 0.9em;">Python (5⭐)</strong>
     </td>
     <td align="center">
-      <strong style="font-size: 0.9em;">LeetCode</strong><br>
       <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" />
     </td>
   </tr>
 </table>
 
+
 </details>
 
+---
 
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Connect with me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-singh-bb2730357/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShashwatSi48402)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/fclDlbfku9/)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shashwat98k)
 
-
-## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Connect with Me
-
-
-  <a href="https://www.linkedin.com/in/shashwat-singh-bb2730357/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/ShashwatSi48402">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/fclDlbfku9/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-</a>
-  <a href="https://www.hackerrank.com/profile/shashwat98k"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-  
 
 
 
