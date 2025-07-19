@@ -27,7 +27,7 @@
 
 ## What I've been doing lately 📌
 
-I'm actively working with datasets using tools like **Pandas**, **Matplotlib**, and **Seaborn** for analysis and visualization.  
+I've been actively working with datasets using tools like **Pandas**, **Matplotlib**, and **Seaborn** for analysis and visualization.  
 On the development side, I'm building responsive UI components with **React** and **Tailwind CSS** to enhance my frontend skills.  
 
 I'm also involved in real-world projects that combine **data analytics** with **clean, user-friendly design**.  
