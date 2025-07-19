@@ -31,7 +31,7 @@ I've been actively working with datasets using tools like **Pandas**, **Matplotl
 On the development side, I'm building responsive UI components with **React** and **Tailwind CSS** to enhance my frontend skills.  
 
 I'm also involved in real-world projects that combine **data analytics** with **clean, user-friendly design**.  
-Recently, I've been diving deeper into **SQL**—practicing complex queries, and exploring **report automation** techniques.
+Recently, I've been diving deeper into **SQL**—practicing complex queries and exploring **report automation** techniques.
 
   
    <!--⚙️ **Built With**:
