@@ -40,7 +40,8 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   </a>  </p>
 
 
-<details><summary><strong>Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></strong></summary><br><br>
+<details><summary><strong>Tech Stack <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20"/></strong></summary>
+<br><br>
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -50,7 +51,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)|
 
 </details>
-<details><summary><strong> GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/></strong></summary><br><br>
+<details><summary><strong> GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="20"/></strong></summary><br><br>
 
 <table align="center">
   <tr>
@@ -77,7 +78,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 </table>
 
 </details>
-<details><summary><strong> Coding Progress Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/></strong></summary><br><br>
+<details><summary><strong> Coding Progress Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="20"/></strong></summary><br><br>
 
 <table align="center">
   <tr>
@@ -99,7 +100,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect with Me
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Connect with Me
 
 
   <a href="https://www.linkedin.com/in/shashwat-singh-bb2730357/">
