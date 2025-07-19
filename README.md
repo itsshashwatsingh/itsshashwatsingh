@@ -22,7 +22,7 @@
 - ❤️ Passionate **Data Analyst** exploring modern tools and technologies  
 - 🎉 Recent graduate with hands-on project experience  
 - ⚒️ Skilled in **Python**, **SQL**, and **data visualization**  
-- 🔰 Currently learning **frontend development** with React, Tailwind, and animations  
+- 🔰 learning **frontend development** with React, Tailwind, and animations  
 - 🧩 Strong foundation in logic, design, and problem-solving  
 - 🔮 Lifelong learner driven by curiosity and creativity  
 
