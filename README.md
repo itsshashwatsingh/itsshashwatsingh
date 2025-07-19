@@ -84,7 +84,10 @@ Recently, I've been diving deeper into **SQL**—practicing complex queries and 
 </table>
 
 </details>
-<details><summary><strong> Coding Progress Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png"  width="20"/></strong></summary><br><br>
+<details><summary><strong> Coding Progress Stats <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20">
+</picture></strong></summary><br><br>
 
 <table align="center">
   <tr>
