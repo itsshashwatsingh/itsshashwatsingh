@@ -61,13 +61,13 @@ As a recent graduate, I've built a solid foundation through academic projects, s
   </tr>
   <tr>
     <td colspan="3" align="center" width="100%">
-      <div style="font-size: 0.9em; font-weight: bold; margin: 10px 0;">Contribution Graph</div>
+      <div><strong>Contribution Graph</strong></div>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshashwatsingh&theme=react&hide_border=true&area=true&hide_title=true&bg_color=00000000" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <div style="font-size: 1.2em; font-weight: bold; margin: 10px 0;">GitHub Contribution Heatmap</div>
+      <div><strong>GitHub Contribution Heatmap</strong></div>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
