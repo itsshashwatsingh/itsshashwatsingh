@@ -35,7 +35,7 @@ As a recent graduate, I've built a solid foundation through academic projects, s
    ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
   
 
-<p> <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+- <p> <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
     <img src="https://img.shields.io/badge/Download-Resume-32CD32?style=for-the-badge" />
   </a>  </p>
 
