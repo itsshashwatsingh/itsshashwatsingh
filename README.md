@@ -24,15 +24,15 @@ As a recent graduate, I've built a solid foundation through academic projects, s
 -  I'm also diving into frontend development using React, Tailwind, and animation libraries.
 - <a href="https://www.shashwatanalyst.online/">
     <img src="https://img.shields.io/badge/Visit%20My-Portfolio-32CD32?style=for-the-badge&logo=globe"/>
-  </a><br>
+  </a><br> 
   
-   ⚙️ **Built With**:
+   <!--⚙️ **Built With**:
     
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
    ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
    ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white)
-   ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+   ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)-->
   
 
 - <p> <a href="https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
