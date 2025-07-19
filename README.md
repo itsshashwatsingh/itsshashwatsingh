@@ -17,24 +17,29 @@
 
 
 
-## About me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- ❤️ Passionate `Data Analyst` exploring modern tools and technologies  
+- ❤️ Passionate Data Analyst exploring modern tools & tech  
 - 🎉 Recent graduate with hands-on project experience  
-- ⚒️ Skilled in `Python`, `SQL`, and `data visualization`  
-- 🔰 Learning `frontend development` with `React`, `Tailwind`, and animations  
-- 🧩 Strong foundation in logic, design, and problem-solving  
-- 🔮 Lifelong learner driven by curiosity and creativity
+- ⚒️ Skilled in Python, SQL & data visualization  
+- 🔰 Learning frontend dev with React, Tailwind & animations  
+- 🧩 Strong foundation in logic, design & problem-solving  
+- 🔮 Lifelong learner driven by curiosity & creativity  
+
 
 <h2> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20">
 </picture> What I've been doing lately </h2>
 
-I've been actively working with datasets using tools like `Pandas`, `Matplotlib`, and `Seaborn` for analysis and visualization.  
-On the development side, I'm building responsive UI components with `React` and `Tailwind CSS` to enhance my `frontend` skills.  
-I'm also working on projects that blend `frontend development` and `data analytics` to create clean, user-friendly designs.  
+I've been actively working with datasets using tools like `Pandas`, `Matplotlib`, and `Seaborn` for analysis and visualization.
+
+On the development side, I'm building responsive UI components with `React` and `Tailwind CSS` to enhance my frontend skills.
+
+I'm also working on projects that blend `frontend development` and `data analytics` to create clean, user-friendly designs.
+
 Recently, I've been diving deeper into `SQL`, practicing complex queries and exploring `report automation` techniques.
+
 
 
   
