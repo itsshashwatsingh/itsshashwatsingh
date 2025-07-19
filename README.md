@@ -25,7 +25,10 @@
 - 🧩 Strong foundation in logic, design, and problem-solving  
 - 🔮 Lifelong learner driven by curiosity and creativity  
 
-## What I've been doing lately:
+<h2> <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="30" height="30">
+</picture> What I've been doing lately </h2>
 
 I've been actively working with datasets using tools like **Pandas**, **Matplotlib**, and **Seaborn** for analysis and visualization.  
 On the development side, I'm building responsive UI components with **React** and **Tailwind CSS** to enhance my frontend skills.  
