@@ -35,17 +35,9 @@
 I've been actively working with datasets using tools like `Pandas`, `Matplotlib`, and `Seaborn` for analysis and visualization. On the development side, I'm building responsive UI components with `React` and `Tailwind CSS` to enhance my frontend skills.
 I'm also working on projects that blend `frontend development` and `data analytics` to create clean, user-friendly designs. Recently, I've been diving deeper into `SQL`, practicing complex queries and exploring `report automation` techniques.
 
-
+<!--<h2>More about me</h2>-->
   
-   <!--⚙️ **Built With**:
-    
-   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-   ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white)
-   ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)-->
-  
----
+--- 
 <details><summary><strong>Tech Stack <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20"/></strong></summary>
 <br><br>
 
