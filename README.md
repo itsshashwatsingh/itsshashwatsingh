@@ -35,7 +35,7 @@
 I've been actively working with datasets using tools like `Pandas`, `Matplotlib`, and `Seaborn` for analysis and visualization. On the development side, I'm building responsive UI components with `React` and `Tailwind CSS` to enhance my frontend skills.
 I'm also working on projects that blend `frontend development` and `data analytics` to create clean, user-friendly designs. Recently, I've been diving deeper into `SQL`, practicing complex queries and exploring `report automation` techniques.
 
-<!--<h2>More about me</h2>-->
+<!--<h2>🚀 My Work & Progress</h2>-->
   
 --- 
 <details><summary><strong>Tech Stack <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20"/></strong></summary>
