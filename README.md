@@ -61,23 +61,23 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://streak-stats.vercel.app/api?user=itsshashwatsingh&theme=react&hide_border=true&background=00000000" width="100%"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsshashwatsingh&layout=compact&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=itsshashwatsingh&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
+    <td align="center"><img src="https://streak-stats.vercel.app/api?user=shashwatanalyst&theme=react&hide_border=true&background=00000000" width="100%"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatanalyst&layout=compact&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shashwatanalyst&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
   </tr>
   <tr>
     <td colspan="3" align="center" width="100%">
       <div><strong>Contribution Graph</strong></div>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsshashwatsingh&theme=react&hide_border=true&area=true&hide_title=true&bg_color=00000000" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatanalyst&theme=react&hide_border=true&area=true&hide_title=true&bg_color=00000000" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
       <div><strong>GitHub Contribution Heatmap</strong></div>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
-        <img alt="snake" src="https://raw.githubusercontent.com/itsshashwatsingh/itsshashwatsingh/output/github-contribution-grid-snake.svg" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake.svg" />
+        <img alt="snake" src="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake.svg" />
       </picture>
     </td>
   </tr>
