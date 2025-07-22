@@ -20,7 +20,7 @@
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - ❤️ Passionate **Data Analyst** exploring modern tools and technologies  
-- 🎉 Graduate with hands-on experience in real-world projects  
+- 🎓 Graduate with hands-on experience in real-world projects  
 - ⚒️ Skilled in **Python**, **SQL**, and **data visualization methods**  
 - 🔰 Learning frontend development with **React**, **Tailwind** and UI animations  
 - 🧩 Strong foundation in logic, design thinking and problem-solving  
@@ -29,15 +29,18 @@
 
 <h2> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
 </picture> What I've been doing lately </h2>
 
 I've been actively working with datasets using tools like `Pandas`, `Matplotlib`, and `Seaborn` for analysis and visualization. On the development side, I'm building responsive UI components with `React` and `Tailwind CSS` to enhance my frontend skills.
 I'm also working on projects that blend `frontend development` and `data analytics` to create clean, user-friendly designs. Recently, I've been diving deeper into `SQL`, practicing complex queries and exploring `report automation` techniques.
 
-<!--<h2>🚀 My Work & Progress</h2>-->
+<h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture> My work & progress</h2>
   
---- 
+
 <details><summary><strong>Tech Stack <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20"/></strong></summary>
 <br><br>
 
@@ -79,9 +82,9 @@ I'm also working on projects that blend `frontend development` and `data analyti
 </table>
 
 </details>
-<details><summary><strong> Coding Progress Stats <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="20" height="20">
+<details><summary><strong> Coding Progress Stats<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="20" height="20">
 </picture></strong></summary><br><br>
 
 <table align="center">
@@ -105,7 +108,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 </details>
 
----
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="30" /> Connect with me
 
