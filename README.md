@@ -97,7 +97,6 @@ I'm also working on projects that blend `frontend development` and `data analyti
       <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
         <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" />
       </a><br>
-      <strong style="font-size: 0.9em;">Python (5⭐)</strong>
     </td>
     <td align="center">
       <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" />
