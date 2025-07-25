@@ -12,7 +12,7 @@
 </h2>
 
 [![Visit My Portfolio](https://img.shields.io/badge/Visit-Portfolio-1E90FF?style=for-the-badge&logo=globe&logoColor=white)](https://www.shashwatanalyst.online/)
-[![Download Resume](https://img.shields.io/badge/Resume-Shashwat_(Data_Analyst)-1E90FF?style=for-the-badge&logo=file&logoColor=white)](https://www.canva.com/design/DAGpq-PylrM/UQrFfeyMQ2-zayKmdINo8A/edit?utm_content=DAGpq-PylrM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Download Resume](https://img.shields.io/badge/Resume-Shashwat_(Data_Analyst)-1E90FF?style=for-the-badge&logo=file&logoColor=white)](https://docs.google.com/document/d/1PJORdUmc9hXCbS8SSw8SFKRTBqgeVsK6_w9k9v-7WF4/edit?usp=sharing)
 
 
 
