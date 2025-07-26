@@ -32,8 +32,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
 </picture> What I've been doing lately </h2>
 
-I've been actively working with datasets using tools like `Pandas`, `Matplotlib`, and `Seaborn` for analysis and visualization. On the development side, I'm building responsive UI components with `React` and `Tailwind CSS` to enhance my frontend skills.
-I'm also working on projects that blend `frontend development` and `data analytics` to create clean, user-friendly designs. Recently, I've been diving deeper into `SQL`, practicing complex queries and exploring `report automation` techniques.
+I've been actively working with datasets using tools like `Pandas`, `Matplotlib`, and `Seaborn` for analysis and visualization. On the development side, I'm building responsive UI components with `React` and `Tailwind CSS` to enhance my frontend skills. I'm also working on projects that blend frontend development and data analytics to create clean, user-friendly designs. Recently, I've been diving deeper into SQL, practicing complex queries, and exploring techniques for automating reports.
 
 <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
@@ -46,7 +45,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 | Category        | Skills        |
 |-----------------|---------------|
-| **Data & Analysis** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=for-the-badge&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![tablaue](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)|
+| **Data & Analysis** | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=for-the-badge&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)|
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)|
 | **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white) ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)|
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F24E1E.svg?style=for-the-badge&logo=jupyter&logoColor=white)|
@@ -59,14 +58,16 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://streak-stats.vercel.app/api?user=shashwatanalyst&theme=react&hide_border=true&background=00000000" width="100%"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatanalyst&layout=compact&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shashwatanalyst&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
+    <td align="center"><img src="https://streak-stats.vercel.app/api?user=shashwatanalyst&theme=react&hide_border=true&background=00000000" width="100%" alt="GitHub Streak Stats for Shashwat"/></td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatanalyst&layout=donut-vertical&theme=dark&bg_color=00000000&title_color=00e7ff&text_color=ffffff&icon_color=ffb86c&hide_border=true" alt="Top Languages Donut Chart for Shashwat"/>
+    </td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shashwatanalyst&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%" alt="GitHub Stats for Shashwat"/></td>
   </tr>
   <tr>
     <td colspan="3" align="center" width="100%">
       <div><strong>Contribution Graph</strong></div>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatanalyst&theme=react&hide_border=true&area=true&hide_title=true&bg_color=00000000" width="100%"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatanalyst&theme=react&hide_border=true&area=true&hide_title=true&bg_color=00000000" width="100%" alt="GitHub Contribution Activity Graph for Shashwat"/>
     </td>
   </tr>
   <tr>
@@ -75,7 +76,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake.svg" />
-        <img alt="snake" src="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake.svg" />
+        <img alt="snake animation showing GitHub contribution heatmap for Shashwat" src="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake.svg" />
       </picture>
     </td>
   </tr>
@@ -95,11 +96,11 @@ I'm also working on projects that blend `frontend development` and `data analyti
   <tr>
     <td align="center">
       <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
-        <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" />
+        <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" alt="HackerRank Profile Badge for Shashwat"/>
       </a><br>
     </td>
     <td align="center">
-      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" />
+      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>
     </td>
   </tr>
 </table>
@@ -115,6 +116,22 @@ I'm also working on projects that blend `frontend development` and `data analyti
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShashwatSi48402)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/fclDlbfku9/)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shashwat98k)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
